@@ -1,15 +1,3 @@
-def toyou(x):
-    return "hi %s" % x
-
-
-def add(x):
-    return x + 1
-
-
-def subtract(x):
-    return x - 1
-Next, you will need to createtest_hello.py with the following code at the top level of your Github repo:
-
 from hello import toyou, add, subtract
 
 
