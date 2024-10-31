@@ -297,7 +297,7 @@ The following diagram illustrates the high-level architecture of the project.
 
 ## Demo 
 
-Link Youtube: [Demo video](https://youtu.be/E6syyO0X_w4)
+Link Youtube: [Demo video](https://youtu.be/Dx_gH6R8X3c)
 
 [![Python application test with Github Actions](https://github.com/QuocHuy248/azure-devops-project-2/actions/workflows/main.yml/badge.svg)](https://github.com/QuocHuy248/azure-devops-project-2/actions/workflows/main.yml)
 
